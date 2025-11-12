@@ -1,3 +1,5 @@
+This document provides an enterprise-wide view of Azure DevOps’ hierarchical structure and permission model, explaining how access, governance, and security flow from the organization level down to individual resources. It serves as a practical framework for administrators and developers to manage projects, pipelines, and environments with consistent, scalable, and role-based control.
+
 Absolutely — let’s break down the Azure DevOps resource hierarchy step-by-step, from the topmost organizational layer to the lowest individual resource level, in a structured and architectural way.
 
 🧱 1. Organization (Top-Level Container)
